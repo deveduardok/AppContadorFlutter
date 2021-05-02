@@ -1,11 +1,16 @@
-# AppContadorFlutter
+# contador
 
-App para controle da quantidade de clientes dentro de um restaurante.
+A new Flutter project.
 
-Quando apertar o botão +1 a Qttd aumentará ou diminuirá caso aperte o botão -1.
+## Getting Started
 
-O app mostra a situação da ocupação do estabelecimento, neste caso o restaurante ficará lotado com uma Qttd acima de 13.
+This project is a starting point for a Flutter application.
 
-![WhatsApp Image 2021-05-02 at 00 22 08](https://user-images.githubusercontent.com/76495191/116801084-f1220e00-aadc-11eb-9c88-45a29e2584b3.jpeg)
+A few resources to get you started if this is your first Flutter project:
 
-![WhatsApp Image 2021-05-02 at 00 22 08 (1)](https://user-images.githubusercontent.com/76495191/116801128-3a725d80-aadd-11eb-9cd0-f324d97de55b.jpeg)
+- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
+- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+
+For help getting started with Flutter, view our
+[online documentation](https://flutter.dev/docs), which offers tutorials,
+samples, guidance on mobile development, and a full API reference.
