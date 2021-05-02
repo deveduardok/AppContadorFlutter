@@ -1,3 +1,5 @@
+# AppContadorFlutter
+
 App para controle da quantidade de clientes dentro de um restaurante.
 
 Quando apertar o botão +1 a Qttd aumentará ou diminuirá caso aperte o botão -1.
